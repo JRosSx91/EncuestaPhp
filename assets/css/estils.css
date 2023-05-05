@@ -1,0 +1,10 @@
+input[type="number"]{
+	width:120px;
+}
+#resultat{
+	border:1px black solid;
+	width: 80%;
+	margin:auto;
+	padding:15px;
+	text-align: center;
+}
